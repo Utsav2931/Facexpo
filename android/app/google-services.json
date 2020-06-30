@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "751741800129",
+    "firebase_url": "https://facexpo-441ae.firebaseio.com",
+    "project_id": "facexpo-441ae",
+    "storage_bucket": "facexpo-441ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751741800129:android:abb28fbf79a3a19b4d4e40",
+        "android_client_info": {
+          "package_name": "com.example.sampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751741800129-0ehoulmvnj6k03f66e5pjacsgcl0u38j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5G0u7Dds6o4LmC8aRemCKd4r9JwhX--8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751741800129-0ehoulmvnj6k03f66e5pjacsgcl0u38j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751741800129:android:a74f9913c16b91ef4d4e40",
+        "android_client_info": {
+          "package_name": "com.utsav.facexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751741800129-0ehoulmvnj6k03f66e5pjacsgcl0u38j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5G0u7Dds6o4LmC8aRemCKd4r9JwhX--8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751741800129-0ehoulmvnj6k03f66e5pjacsgcl0u38j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
